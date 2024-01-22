@@ -1,0 +1,14 @@
+{
+  "name": "desktop",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "workerpool": "^9.1.0"
+  }
+}
